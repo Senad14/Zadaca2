@@ -1,0 +1,27 @@
+.opis{
+text-align: center;
+font-size: larger;
+font-style: inherit;
+
+}
+.iskustva{
+font-size: larger;
+font-style: italic;
+text-decoration: dashed;
+
+
+}
+.tekstdugme{
+    font-size: larger;
+    font-style: oblique;
+    text-align: justify;
+}
+button{
+    color: black;
+    padding: 7px;
+    text-decoration: solid;
+    background-color: grey;
+    border: none;
+    border-radius: 4px;
+    
+}
